@@ -7,3 +7,5 @@ env/
 # Ignore Python cache
 __pycache__/
 *.pyc
+logs/
+AI_TRAVEL_AGENT.egg-info/
